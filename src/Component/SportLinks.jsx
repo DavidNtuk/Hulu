@@ -47,7 +47,7 @@ const SportLinks = () => {
             {
                 live ? (
                     <>
-                    <img className='active-img w-full h-[full] object-cover' src='https://cnbl-cdn.bamgrid.com/assets/58fb35f9ec229ad8366a5c95a78003e1406315670a6882aa5d0bf1c34a72fe91/original' alt='SportImg'/>
+                    <img className='active-img w-full h-[full] object-cover' src='https://cnbl-cdn.bamgrid.com/assets/b8c6dfb74d0a755e8df205721c87b1f8b74821b4229c78492ecca29a2635db9e/original' alt='SportImg'/>
                     <div className='absolute top-0 w-full h-full bg-gradient-to-tr from-black'></div>
                     </>
                 ) : breaking ? (
